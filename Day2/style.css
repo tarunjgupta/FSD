@@ -1,0 +1,9 @@
+table{
+    background-color: tomato;
+    border-color: brown;
+    border-radius: 20px;
+    border-style: double;
+}
+table input{
+    cursor: pointer;
+}
