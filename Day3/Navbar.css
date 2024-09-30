@@ -1,0 +1,40 @@
+/* .Heading{
+background-color: aqua;
+font-size: 20px;
+}
+
+#heading1{
+    color: red;
+}
+
+#heading2{
+    color: green;
+}
+
+div>p{
+    color: aquamarine;
+}
+
+/* div + p{
+    color: blueviolet;
+} */
+/* 
+div~p{
+    color: blueviolet;
+}  */
+
+
+.fcontainer{
+    display: flex;
+}
+
+.fitem{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    padding: 20px;
+    margin: 20px;
+    border: 12px solid green;
+    font-size: 20px;
+    text-align: center;
+}
