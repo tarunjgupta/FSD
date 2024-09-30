@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+table tr{
+    background-color: tomato;
+    border-width: 10px;
+    border-style: groove;
+    width: 100%;
+    border-color: brown;
+    border-radius: 12px;
+}
+
+#heading{
+    background-color: chartreuse;
+    font-size: 60px;
+    text-align: center;
+    color: brown;
+}
+
+#row1{
+    background-color: red;
+    text-align: center;
+}
+
+#row2{
+    background-color: green;
+    text-align: center;
+}
+
