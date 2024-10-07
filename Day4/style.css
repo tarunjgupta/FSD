@@ -70,7 +70,12 @@ table{
     border-radius: 10px;
 }
 
-.footer{
-    display: flex;
+#footer{
     background-color: blue;
+}
+
+#copyright{
+    background-color: grey;
+    height: 300px;
+    margin-bottom: 50px;
 }
